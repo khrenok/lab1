@@ -1,4 +1,5 @@
 Intensive work with Git Software
+Theory work with Git Software
 Моя первая практическая работа с Git
 I'm beginning to understand Git!
 This text was added one more line
